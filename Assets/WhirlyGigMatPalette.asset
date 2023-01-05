@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1ca63a91b17724bbd99c8fa67e0180, type: 3}
+  m_Name: WhirlyGigMatPalette
+  m_EditorClassIdentifier: 
+  array:
+  - {fileID: 2100000, guid: c3f9fe3e4d91c014cbc8df1ecac699fb, type: 2}
+  - {fileID: 2100000, guid: 8ce278e2536a9dd45bd68cb764f36a04, type: 2}
+  - {fileID: 2100000, guid: 7eac2121fbc557e4f945d6187366fdf7, type: 2}
+  - {fileID: 2100000, guid: 294e72962c44f69418c1f2b7e76eec39, type: 2}
+  - {fileID: 2100000, guid: ca0908c8a3cd369479bafba57bab8d10, type: 2}
+  - {fileID: 2100000, guid: f59a12466837b59429fb500f4d91da41, type: 2}
+  - {fileID: 2100000, guid: 59866f4f62b89f1498cb9a6f85d48fa5, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
